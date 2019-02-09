@@ -1,4 +1,4 @@
-# ML Workshop, session 2019-02-13
+# Maskinlæring Workshop
 
 Hva trenger du?
 - En PC med Google konto
