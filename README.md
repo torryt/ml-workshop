@@ -15,6 +15,5 @@ Vi forteller litt om
 ## Oppgaver
 Klikk på 'File' -> 'Copy to drive' for å redigere 
 - [Oppgave 1 - Python og numpy](https://colab.research.google.com/drive/1Xjb4WJh26hhTc3Z8UtBbZ0W_RGV3PSJ-)
-- [Oppgave 2 - Trening av data](https://colab.research.google.com/drive/1thbYC0nCWRhxUVgrVEXIpN8u2wnDK0Al)
-- [Oppgave 3 - Evaluering og resultat](https://colab.research.google.com/drive/1PibuRsPojCB52qvenfhmnUcTzqlj-zXw)
-- [Oppgave 4 - Tensorflow og Keras](https://colab.research.google.com/drive/1Kj3u0WStsRvXUh2TpY9K-n4tskpGn7fV)
+- [Oppgave 2 - Trening og prediksjon](https://colab.research.google.com/drive/1thbYC0nCWRhxUVgrVEXIpN8u2wnDK0Al)
+- [Oppgave 3 - Tensorflow og Keras](https://colab.research.google.com/drive/1Kj3u0WStsRvXUh2TpY9K-n4tskpGn7fV)
